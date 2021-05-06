@@ -1,0 +1,35 @@
+body {
+    background-color: white;
+    background-image: url('https://i.imgur.com/XPKWDoL.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: auto auto;
+    align-content:center;
+}
+
+.container {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
+
+.section {
+    padding: 0.5rem 2rem 1rem 2rem;
+    text-align:center;
+}
+
+img {
+    vertical-align: text-bottom;
+}
+
+p {
+    font-size: 40px;
+    font-family: 'Lucida Handwriting', cursive;
+}
