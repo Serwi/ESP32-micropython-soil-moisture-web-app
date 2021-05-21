@@ -1,4 +1,4 @@
-# esp32-plant-soil-moisture-webapp
+# esp32-plant-soil-moisture-web-app
 
 ## General info
   This is code for esp32 to use it as wireless plant soil moisture sensor and view it in your browser
